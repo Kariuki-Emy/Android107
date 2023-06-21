@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62829196620",
+    "project_id": "fir-taketwo-8a574",
+    "storage_bucket": "fir-taketwo-8a574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62829196620:android:42ed00cc72f7f72b974be9",
+        "android_client_info": {
+          "package_name": "com.example.firebasetaketwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62829196620-bo6i0k7t21b0ol50aing665l5cpn8b6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH48DpKJYCkgPCdVlktEUFoxNkWUdFyPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62829196620-bo6i0k7t21b0ol50aing665l5cpn8b6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
